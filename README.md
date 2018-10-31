@@ -1,11 +1,11 @@
 # 枚举下拉框插件
 
-## 安装插件
+### 安装插件
 ``` bash
 npm i enum-select
 ```
 
-代码示例
+###代码示例
 ``` vue
 <template>
   <div id="app">
