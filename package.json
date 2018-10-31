@@ -1,8 +1,8 @@
 {
   "name": "enum-select",
   "description": "枚举下拉框",
-  "version": "1.0.7",
-  "author": "742588827@qq.com",
+  "version": "1.0.10",
+  "author": "kangyuin<742588827@qq.com>",
   "license": "MIT",
   "private": false,
   "main": "dist/enum-select.js",
@@ -14,6 +14,11 @@
     "element-ui": "^2.4.9",
     "vue": "^2.5.11"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangyulin/vplugin-enum-select"
+  },
+  "homepage": "https://github.com/kangyulin/vplugin-enum-select",
   "browserslist": [
     "> 1%",
     "last 2 versions",
